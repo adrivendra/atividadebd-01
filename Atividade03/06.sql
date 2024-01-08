@@ -1,0 +1,1 @@
+UPDATE tb_estudantes SET media = 5.5 WHERE id = 3;
