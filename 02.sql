@@ -1,0 +1,8 @@
+CREATE TABLE tb_funcionarios(
+id BIGINT AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(255) NOT NULL,
+cargo VARCHAR(255) NOT NULL,
+email VARCHAR(255) NOT NULL,
+data_admissao DATE,
+salario DECIMAL(6,2)
+);
