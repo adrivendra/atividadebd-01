@@ -1,0 +1,1 @@
+UPDATE tb_produtos SET preco = 1300 WHERE id = 2;
